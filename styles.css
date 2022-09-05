@@ -1,0 +1,17 @@
+#canvas1 {
+  border: 3px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 700px;
+  width: 500px;
+  box-shadow: 25px 26px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 25px 26px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 25px 26px 5px 0px rgba(0, 0, 0, 0.75);
+  background-color: #fff;
+}
+
+body {
+    background-color: #ff7b00;
+}
